@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotBasics", "DotBasics\DotBasics.csproj", "{E091EABA-F9B4-44F6-BC22-1B66DB752B32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotBasics.Test", "DotBasics.Test\DotBasics.Test.csproj", "{07F3FBD1-E6C0-4C25-925A-89400ACEF7DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E091EABA-F9B4-44F6-BC22-1B66DB752B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E091EABA-F9B4-44F6-BC22-1B66DB752B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E091EABA-F9B4-44F6-BC22-1B66DB752B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E091EABA-F9B4-44F6-BC22-1B66DB752B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F3FBD1-E6C0-4C25-925A-89400ACEF7DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F3FBD1-E6C0-4C25-925A-89400ACEF7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F3FBD1-E6C0-4C25-925A-89400ACEF7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F3FBD1-E6C0-4C25-925A-89400ACEF7DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83F42D76-65BB-4464-BE4B-5A1117BE6329}
+	EndGlobalSection
+EndGlobal
